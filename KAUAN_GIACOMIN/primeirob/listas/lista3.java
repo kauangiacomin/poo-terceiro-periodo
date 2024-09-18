@@ -1,3 +1,5 @@
+package KAUAN_GIACOMIN.primeirob.listas;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

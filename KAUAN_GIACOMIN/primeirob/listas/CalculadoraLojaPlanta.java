@@ -1,4 +1,4 @@
-package KAUAN_GIACOMIN.primeirob.listas.lista1;
+package KAUAN_GIACOMIN.primeirob.listas;
 
 import java.util.Scanner;
 
